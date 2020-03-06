@@ -31,8 +31,8 @@
     "audit": "improved-yarn-audit --min-severity moderate"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.6",
-    "@babel/preset-env": "^7.8.6",
+    "@babel/core": "^7.8.7",
+    "@babel/preset-env": "^7.8.7",
     "@nuxtjs/eslint-config": "^2.0.2",
     "@rollup/plugin-alias": "^3.0.1",
     "@rollup/plugin-commonjs": "^11.0.2",
@@ -67,7 +67,7 @@
     "puppeteer-core": "^2.1.1",
     "request": "^2.88.2",
     "rimraf": "^3.0.2",
-    "rollup": "^1.32.0",
+    "rollup": "^1.32.1",
     "rollup-plugin-license": "^0.13.0",
     "sass-loader": "^8.0.2",
     "sort-package-json": "^1.40.0",
